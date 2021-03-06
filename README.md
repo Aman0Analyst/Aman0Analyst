@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on data privacy and anonymization systems
+- ⚡ Fun fact: **Machine Learning** is just **Matrix Multiplication**
+     in refined and beautified form. 
+
 <!--
 **Aman0Analyst/Aman0Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
