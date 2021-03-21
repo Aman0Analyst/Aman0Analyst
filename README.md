@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://www.thisiscolossal.com/wp-content/uploads/2013/01/1.gif" 
+     width="20" 
+     height="20" /> ## Hi there 
 
 - 🔭 I’m currently working on data privacy and anonymization systems
 - ⚡ Fun fact: **Machine Learning** is just **Matrix Multiplication**
