@@ -1,6 +1,5 @@
-<img src="https://www.thisiscolossal.com/wp-content/uploads/2013/01/1.gif" 
-     width="20" 
-     height="20" /> ## Hi there 
+<img src="https://media2.giphy.com/media/26u4cqVR8dsmedTJ6/giphy.gif" width = 28x alt="">  <font size = 5><b> ! Hello Thanks for visiting !</b></font>
+
 
 - 🔭 I’m currently working on data privacy and anonymization systems
 - ⚡ Fun fact: **Machine Learning** is just **Matrix Multiplication**
