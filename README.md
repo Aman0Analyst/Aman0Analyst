@@ -1,7 +1,7 @@
 <img src="https://media2.giphy.com/media/26u4cqVR8dsmedTJ6/giphy.gif" width = 28x alt="">  <font size = 5><b> ! Hello Thanks for visiting !</b></font>
 ___
 
-- 🔭 I’m currently working on data privacy and anonymization systems at [Tsaaro – Managing Privacy Risk]("https://www.tsaaro.com/")<img src="https://www.tsaaro.com/wp-content/uploads/2020/11/cropped-cropped-logo_transparent.png" width = 20x alt="">
+- 🔭 I’m currently working on data privacy and anonymization systems at [Tsaaro – Managing Privacy Risk](https://www.tsaaro.com/)<img src="https://www.tsaaro.com/wp-content/uploads/2020/11/cropped-cropped-logo_transparent.png" width = 20x alt="">
 - ⚡ Fun fact: **Machine Learning** is just **Matrix Multiplication**
      in refined and beautified form. 
 
