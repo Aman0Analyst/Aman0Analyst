@@ -1,21 +1,19 @@
-<img src="https://media2.giphy.com/media/26u4cqVR8dsmedTJ6/giphy.gif" width = 28x alt="">  <font size = 5><b> ! Hello Thanks for visiting !</b></font>
-___
+## Introduction 🚀
 
-- 🔭 I’m currently working on data privacy and anonymization systems at [Tsaaro – Managing Privacy Risk](https://www.tsaaro.com/)<img src="https://www.tsaaro.com/wp-content/uploads/2020/11/cropped-cropped-logo_transparent.png" width = 20x alt="">
-- ⚡ Fun fact: **Machine Learning** is just **Matrix Multiplication**
-     in refined and beautified form. 
+Hello there! I'm Aman, an enthusiastic AI Data Scientist with a passion for solving complex problems using data-driven approaches. 📊 With a background in geospatial analytics, deep learning, machine learning, big data, feature engineering, and Docker, I'm always eager to dive into new challenges and learn something new. 🌟
 
-<!--
-**Aman0Analyst/Aman0Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 🛠️
 
-Here are some ideas to get you started:
+- Geospatial Analytics 🗺️
+- Deep Learning 🤖
+- Machine Learning 📈
+- Big Data Management 📂
+- Feature Engineering ✨
+- Docker 🐳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 📬
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aman-jain-786082175/) or via email at amanjain0499@gmail.com for collaboration or discussions related to AI, data science, or anything tech!
+Let's connect and innovate together! 🤝
+
+Looking forward to connecting with fellow enthusiasts and professionals in the field. Let's learn and innovate together! 🚀
